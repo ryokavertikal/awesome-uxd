@@ -1,4 +1,34 @@
- a {
-      font-weight: bold;
+     .darkly {
+        background-color: #2A0944;
     }
-  
+    
+    body {
+        background-color: #3B185F;
+    }
+    
+    .navbar-burger {
+        color: white;
+    }
+    
+    .navbar-menu {
+        background-color: #2A0944;
+    }
+    
+    .navbar-item:hover {
+        background-color: #381752 !important;
+        color: white;
+    }
+    
+    p {
+        font-weight: 600;
+        font-size: 20px;
+    }
+    
+    p:hover {
+        color: rgb(69, 13, 141);
+        cursor: pointer;
+    }
+    
+    .box:hover {
+        background-color: #EDEDED;
+    }
